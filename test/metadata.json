@@ -1,6 +1,0 @@
-{
-  "name": "Plant Doctor",
-  "description": "Understand your leaf. Care for your plant. Visual plant disease detection for rust, powdery mildew, and healthy foliage with practical remedy guides.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
